@@ -6,4 +6,4 @@
 --platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 #docker
-Ubuntu
+Perplexica
